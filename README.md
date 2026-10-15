@@ -3,6 +3,8 @@
 Scanner de sub-rede com interface gráfica (Python + Tkinter) para descobrir e
 inventariar os dispositivos da sua rede local.
 
+![Interface do HiddenIP](docs/hiddeninterface.png)
+
 ## Recursos
 
 - Varredura paralela de uma faixa inteira (até /20), com número de threads ajustável
